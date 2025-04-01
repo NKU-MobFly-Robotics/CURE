@@ -5,8 +5,7 @@ CURE is a multi-robot exploration planner that first proposed using unknown regi
 **Video Link:** [Bilibili Video 1](https://www.bilibili.com/video/BV1j64zePEbZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0e7c59dd804a18d9a9c201eafe9ac6e5); [Bilibili Video 2](https://www.bilibili.com/video/BV1oB4zeeEDm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0e7c59dd804a18d9a9c201eafe9ac6e5); [Youtube](https://youtu.be/P5jXKlGQOec)
 
 **Paper:** [IEEE](https://ieeexplore.ieee.org/document/10155622)
-
-> Q. Bi et al., "CURE: A Hierarchical Framework for Multi-Robot Autonomous Exploration Inspired by Centroids of Unknown Regions," in IEEE Transactions on Automation Science and Engineering, vol. 21, no. 3, pp. 3773-3786, July 2024, doi: 10.1109/TASE.2023.3285300.
+Q. Bi et al., "CURE: A Hierarchical Framework for Multi-Robot Autonomous Exploration Inspired by Centroids of Unknown Regions," in IEEE Transactions on Automation Science and Engineering, vol. 21, no. 3, pp. 3773-3786, July 2024, doi: 10.1109/TASE.2023.3285300.
 
 If it is useful to you, please cite our paper and ⭐️ our code. Thanks!
 
